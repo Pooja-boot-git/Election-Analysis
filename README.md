@@ -1,2 +1,2 @@
 # Election-Analysis
-use of python, VSCode,Terminal
+use of python3, VSCode,Terminal
