@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ## Election Audit Overview
-The Colorado Board of Election department has given us data and they would like us to analyze and provide concise election audit report. Here is list of tasks they want us to perform:
+The Colorado Board of Election department has given us data and they would like us to analyze and provide concise election audit report. Here is a list of tasks they want us to perform:
 1. Total number of votes cast
 2. A complete list of candidates who received votes
 3. Total number of votes each candidate received
@@ -36,13 +36,14 @@ Click on [Election Summary](https://github.com/Pooja-boot-git/Election-Analysis/
 ![table](https://github.com/Pooja-boot-git/Election-Analysis/blob/main/pivot-table.png)
 ![chart](https://github.com/Pooja-boot-git/Election-Analysis/blob/main/pivot-chart.png)
 
-## ** FOR MAC USERS **
 **PROPOSAL**
 - We can modify our program to provide you more meaningful information. For instance: 
   - Given the demographics within each of the county, we can provide you results by population, age, race etc. 
-  - We can provide a similar result for multiple states. We will provide you the format of the input file to get the results.
+  - We can provide a similar result for multiple states. We will provide you the format of the input file to get to the results.
 
+## ** FOR MAC USERS **
+We can provide an executable file to be run directly from your desktop. You will need to place the executable, output folder(where election data analysis report will be created) and input folder(containing election results) in your home directory. Just double click the file to get the result.
 
-
+Similar can be achived for windows users as well. Note: testing pending for windows users. 
 
 
